@@ -1,1 +1,1 @@
-# ITSC-4155 - Software Development Project
+# ITSC-4155 - Meet In The Middle
