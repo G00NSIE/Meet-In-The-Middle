@@ -9,6 +9,7 @@ client/lerna-debug.log*
 
 # Ignore node_modules in client folder
 client/node_modules/
+server/node_modules/
 
 # Ignore build directories in client folder
 client/dist/
