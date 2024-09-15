@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+  min-height: 100vh;
+}
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
